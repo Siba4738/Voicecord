@@ -7,14 +7,10 @@ import os
 from discord.ext import commands
 
 class Music(commands.Cog):
-
-class Music(commands.Cog
-
-
     def __init__(self, bot):
 
         self.bot = bot
-
+   
     @commands.command()
 
     async def join(self, ctx, *, channel: discord.VoiceChannel):
