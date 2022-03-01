@@ -42,7 +42,5 @@ keep_alive.keep_alive()
 
 bot.add_cog(Music(bot))
 
-bot.run('OTQyMDY3NDg2NzMwMzYyOTYx.Yh5ZQA.tFnIpBZ47t7cmPq5TDILock3_Hc
-
-') 
+bot.run('OTQyMDY3NDg2NzMwMzYyOTYx.Yh5ZQA.tFnIpBZ47t7cmPq5TDILock3_Hc') 
 
