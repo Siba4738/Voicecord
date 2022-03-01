@@ -1,0 +1,6 @@
+flask
+
+discord
+
+pynacl
+
