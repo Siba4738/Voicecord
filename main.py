@@ -42,5 +42,5 @@ keep_alive.keep_alive()
 
 bot.add_cog(Music(bot))
 
-bot.run('') 
+bot.run(os.getenv"TOKEN") 
 
